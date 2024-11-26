@@ -10,10 +10,10 @@ const projects = [
   },
   {
     title: 'Project Two',
-    description: 'This is a brief description of project two.',
-    image: 'https://via.placeholder.com/300',
-    demoLink: '#',
-    repoLink: '#',
+    description: 'This is a super admin dashboard.',
+    image: 'https://www.google.com/imgres?q=admin%20dashboard%20page%20image&imgurl=https%3A%2F%2Fthemewagon.com%2Fwp-content%2Fuploads%2F2021%2F07%2Fruang-1.png&imgrefurl=https%3A%2F%2Fthemewagon.com%2Fthemes%2Ffree-bootstrap-4-html-5-admin-dashboard-website-template-ruang%2F&docid=p8LITmAxy2DF3M&tbnid=ubc6JHDkPQDPdM&vet=12ahUKEwjO7f3KhPuJAxUVV0EAHVyOBOUQM3oECB0QAA..i&w=1920&h=1178&hcb=2&ved=2ahUKEwjO7f3KhPuJAxUVV0EAHVyOBOUQM3oECB0QAA',
+    demoLink: 'https://playden-superadmin.vercel.app/',
+    repoLink: 'https://github.com/PLAY-DEN/playden-superadmin.git',
   },
   {
     title: 'Project Three',

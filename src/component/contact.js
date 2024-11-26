@@ -45,22 +45,6 @@ function Contact() {
               </button>
             </form>
           </div>
-
-          {/* Social Links */}
-          <div className="w-full md:w-1/2 px-4 md:px-0 text-center">
-            <p className="text-gray-700 text-lg mb-4">Or connect with me on:</p>
-            <div className="flex justify-center space-x-6">
-              <a href="https://github.com.git" target="_blank" rel="noopener noreferrer" className="text-3xl text-gray-700 hover:text-blue-600 transition-colors duration-300">
-                <FaGithub />
-              </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-3xl text-gray-700 hover:text-blue-600 transition-colors duration-300">
-                <FaLinkedin />
-              </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-3xl text-gray-700 hover:text-blue-600 transition-colors duration-300">
-                <FaTwitter />
-              </a>
-            </div>
-          </div>
         </div>
       </div>
     </section>
